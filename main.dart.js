@@ -65461,7 +65461,7 @@ b5=n4.m(m9).f
 n0=T.dn(new T.k(s.a.a*0.8,c3,T.j(H.a([r,q,p,o,n,m,C.a4,new T.k(c3,c3,l,c3),k,j,b0,g,h,a9,a8,a7,e,a4,a5,d,c,b,c2,a1,new T.k(c3,c3,a0,c3),new T.k(c3,c3,c1,c3),new T.k(c3,c3,c0,c3),new T.k(c3,c3,b9,c3),b8,b7,M.h(c3,T.j(H.a([new T.k(c3,c3,b6,c3),M.h(c3,S.ng(N.nh(C.bs,C.a1,2),H.a([new S.W(H.a([T.j(H.a([new T.k(n4.m(m9).f.a.a*0.2,c3,O.f(m3,c3,!1,K.b(n4).k.y,C.j),c3)],n1),C.i,C.e,C.d),T.j(H.a([new T.k(n4.m(m9).f.a.a*0.2,c3,O.f(m4,c3,!1,K.b(n4).k.y,C.j),c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f(e4,c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f("125",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d)],n1)),new S.W(H.a([T.j(H.a([O.f("",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([new T.k(n4.m(m9).f.a.a*0.2,c3,O.f(m5,c3,!1,K.b(n4).k.y,C.j),c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f(e4,c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f("112",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d)],n1)),new S.W(H.a([T.j(H.a([new T.k(n4.m(m9).f.a.a*0.2,c3,O.f(m6,c3,!1,K.b(n4).k.y,C.j),c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f("",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f(e4,c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f("72",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d)],n1)),new S.W(H.a([T.j(H.a([new T.k(n4.m(m9).f.a.a*0.2,c3,O.f(m7,c3,!1,K.b(n4).k.y,C.j),c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f("",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f(e4,c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f("163",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d)],n1)),new S.W(H.a([T.j(C.ln,C.i,C.e,C.d),T.j(H.a([O.f("",c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(H.a([O.f(e4,c3,!1,K.b(n4).k.y,c3)],n1),C.i,C.e,C.d),T.j(C.lB,C.i,C.e,C.d)],n1))],n2),new S.h5(b5.a.a*0.2)),C.c,c3,c3,c3,c3,c3,C.L,c3,c3,c3,c3),M.h(c3,O.f(m8,c3,!1,K.b(n4).k.y,c3),C.c,c3,c3,c3,c3,c3,C.L,c3,c3,c3,c3)],n1),C.w,C.e,C.d),C.c,c3,c3,c3,c3,c3,C.L,c3,c3,c3,c3),C.X],n1),C.w,C.e,C.d),n0),c3,c3)
 m9=n0}return m9}}
 B.u6.prototype={
-an:function(){return new B.JL(H.a(["images/carousel_1.jpg","images/carousel_2.jpg","images/carousel_3.jpg"],t.s),C.q)}}
+an:function(){return new B.JL(H.a(["assets/images/carousel_1.jpg","assets/images/carousel_2.jpg","assets/images/carousel_3.jpg"],t.s),C.q)}}
 B.JL.prototype={
 M:function(a,b){var s,r,q,p,o=null,n=u.T,m="Designed by: Mr. Hello World",l=t.w,k=b.m(l).f,j=k.ge9(k)
 k=$.aoP()
@@ -65488,7 +65488,7 @@ n=M.h(k,V.cO(Z.no($.ah8(),C.aH,C.la,C.o0,1,k,k,K.b(a).k.y),C.p,10,C.an),C.c,k,k,
 m=a.m(i).f
 m=M.h(k,V.cO(Z.no($.adL(),C.aH,C.lb,C.ea,12,k,new S.a6q(this),K.b(a).k.y),C.p,10,C.an),C.c,k,k,k,k,k,C.b8,k,k,k,m.a.a*0.25)
 l=a.m(i).f
-return T.dn(new T.k(h.a.a*0.6,k,M.h(C.Y,T.j(H.a([g,s,C.X,new T.k(k,k,r,k),M.h(k,T.bo(H.a([new T.k(k,k,T.j(H.a([new T.k(p.a.a*0.25,k,o,k),n,m,M.h(C.b2,D.m_(!1,C.mW,C.c,k,k,k,$.ach?new S.a6r(this):k,k),C.c,k,k,k,k,k,C.b8,k,k,k,l.a.a*0.25)],q),C.w,C.e,C.d),k),D.bK(k,new T.k(a.m(i).f.a.a*0.32,410,V.cO(U.aeM("/images/map.png",C.c5),C.p,10,C.an),k),C.H,!1,k,k,k,k,k,k,k,k,k,k,k,new S.a6s(),k,k,k,k,k,k)],q),C.w,C.bb,C.d),C.c,k,k,k,k,k,C.tl,k,k,k,k),C.X],q),C.w,C.e,C.d),C.c,k,k,k,k,k,k,k,k,k,k),j),k,k)},
+return T.dn(new T.k(h.a.a*0.6,k,M.h(C.Y,T.j(H.a([g,s,C.X,new T.k(k,k,r,k),M.h(k,T.bo(H.a([new T.k(k,k,T.j(H.a([new T.k(p.a.a*0.25,k,o,k),n,m,M.h(C.b2,D.m_(!1,C.mW,C.c,k,k,k,$.ach?new S.a6r(this):k,k),C.c,k,k,k,k,k,C.b8,k,k,k,l.a.a*0.25)],q),C.w,C.e,C.d),k),D.bK(k,new T.k(a.m(i).f.a.a*0.32,410,V.cO(U.aeM("assets/images/map.png",C.c5),C.p,10,C.an),k),C.H,!1,k,k,k,k,k,k,k,k,k,k,k,new S.a6s(),k,k,k,k,k,k)],q),C.w,C.bb,C.d),C.c,k,k,k,k,k,C.tl,k,k,k,k),C.X],q),C.w,C.e,C.d),C.c,k,k,k,k,k,k,k,k,k,k),j),k,k)},
 q4:function(a){var s,r,q,p,o,n,m,l,k,j=null,i=$.ahj(),h=t.w,g=a.m(h).f,f=a.m(h).f
 f=M.h(j,new U.pW(f.ge9(f),j),C.c,j,j,j,j,j,C.K,j,j,j,j)
 s=M.h(j,M.h(j,C.n0,C.c,j,j,C.C,j,j,j,C.B,j,j,j),C.c,j,j,j,j,j,C.K,j,j,j,j)
@@ -65503,7 +65503,7 @@ m=M.h(j,V.cO(Z.no($.ah8(),C.aH,C.la,C.o0,1,j,j,K.b(a).k.y),C.p,10,C.an),C.c,j,j,
 l=a.m(h).f
 l=M.h(j,V.cO(Z.no($.adL(),C.aH,C.lb,C.ea,12,j,new S.a6u(this),K.b(a).k.y),C.p,10,C.an),C.c,j,j,j,j,j,C.b8,j,j,j,l.a.a)
 k=a.m(h).f
-return T.dn(new T.k(g.a.a*0.8,j,M.h(C.Y,T.j(H.a([f,s,C.X,new T.k(j,j,r,j),C.X,p,M.h(j,new T.k(j,j,T.j(H.a([new T.k(o.a.a,j,n,j),m,l,M.h(C.b2,D.m_(!1,C.mW,C.c,j,j,j,$.ach?new S.a6v(this):j,j),C.c,j,j,j,j,j,C.b8,j,j,j,k.a.a)],q),C.w,C.e,C.d),j),C.c,j,j,j,j,j,C.b8,j,j,j,j),C.X,M.h(j,C.I5,C.c,j,j,C.R,j,j,j,C.n,j,j,j),C.a4,D.bK(j,new T.k(a.m(h).f.a.a,300,V.cO(U.aeM("/images/map.png",C.c5),C.p,10,C.an),j),C.H,!1,j,j,j,j,j,j,j,j,j,j,j,new S.a6w(),j,j,j,j,j,j),C.X],q),C.w,C.e,C.d),C.c,j,j,j,j,j,j,j,j,j,j),i),j,j)},
+return T.dn(new T.k(g.a.a*0.8,j,M.h(C.Y,T.j(H.a([f,s,C.X,new T.k(j,j,r,j),C.X,p,M.h(j,new T.k(j,j,T.j(H.a([new T.k(o.a.a,j,n,j),m,l,M.h(C.b2,D.m_(!1,C.mW,C.c,j,j,j,$.ach?new S.a6v(this):j,j),C.c,j,j,j,j,j,C.b8,j,j,j,k.a.a)],q),C.w,C.e,C.d),j),C.c,j,j,j,j,j,C.b8,j,j,j,j),C.X,M.h(j,C.I5,C.c,j,j,C.R,j,j,j,C.n,j,j,j),C.a4,D.bK(j,new T.k(a.m(h).f.a.a,300,V.cO(U.aeM("assets/images/map.png",C.c5),C.p,10,C.an),j),C.H,!1,j,j,j,j,j,j,j,j,j,j,j,new S.a6w(),j,j,j,j,j,j),C.X],q),C.w,C.e,C.d),C.c,j,j,j,j,j,j,j,j,j,j),i),j,j)},
 nT:function(){var s=0,r=P.ad(t.z)
 var $async$nT=P.a9(function(a,b){if(a===1)return P.aa(b,r)
 while(true)switch(s){case 0:s=2
@@ -65560,7 +65560,7 @@ return P.ac($async$$0,r)},
 $S:45}
 A.vg.prototype={
 an:function(){var s=t.s
-return new A.Lz(H.a(["images/school/plan1.jpeg","images/school/plan2.jpeg","images/school/plan4.jpeg"],s),H.a(["images/carousel_1.jpg","images/carousel_2.jpg","images/carousel_3.jpg"],s),H.a(["images/toilet/t9.jpeg","images/toilet/t2.jpeg"],s),C.q)}}
+return new A.Lz(H.a(["assets/images/school/plan1.jpeg","assets/images/school/plan2.jpeg","assets/images/school/plan4.jpeg"],s),H.a(["assets/images/carousel_1.jpg","assets/images/carousel_2.jpg","assets/images/carousel_3.jpg"],s),H.a(["assets/images/toilet/t9.jpeg","assets/images/toilet/t2.jpeg"],s),C.q)}}
 A.Lz.prototype={
 M:function(a,b){var s=b.m(t.w).f
 return s.ge9(s)===C.aZ?this.Ad(b):this.q4(b)},
@@ -65725,7 +65725,7 @@ $R:0,
 $S:0}
 N.xh.prototype={
 an:function(){var s=t.s
-return new N.O2(H.a(["images/school/plan1.jpeg","images/school/plan2.jpeg","images/school/plan4.jpeg"],s),H.a(["images/school/s1.jpeg","images/school/s4.jpeg","images/school/s5.jpeg","images/school/s6.jpeg","images/school/s8.jpeg","images/school/s9.jpeg","images/school/s11.jpeg","images/school/s12.jpeg","images/school/s13.jpeg","images/school/s17.jpeg","images/school/s18.jpeg","images/school/s22.jpeg"],s),H.a(["images/school/s2.jpeg","images/school/s3.jpeg","images/school/s24.jpeg","images/school/s25.jpeg","images/school/s26.jpeg","images/school/s27.jpeg","images/school/s28.jpeg"],s),C.q)}}
+return new N.O2(H.a(["assets/images/school/plan1.jpeg","assets/images/school/plan2.jpeg","assets/images/school/plan4.jpeg"],s),H.a(["assets/images/school/s1.jpeg","assets/images/school/s4.jpeg","assets/images/school/s5.jpeg","assets/images/school/s6.jpeg","assets/images/school/s8.jpeg","assets/images/school/s9.jpeg","assets/images/school/s11.jpeg","assets/images/school/s12.jpeg","assets/images/school/s13.jpeg","assets/images/school/s17.jpeg","assets/images/school/s18.jpeg","assets/images/school/s22.jpeg"],s),H.a(["assets/images/school/s2.jpeg","assets/images/school/s3.jpeg","assets/images/school/s24.jpeg","assets/images/school/s25.jpeg","assets/images/school/s26.jpeg","assets/images/school/s27.jpeg","assets/images/school/s28.jpeg"],s),C.q)}}
 N.O2.prototype={
 M:function(a,b){var s,r,q,p,o,n,m=null,l=u.T,k="Designed by: Mr. Hello World",j=t.w,i=b.m(j).f,h=i.ge9(i)
 i=$.aoS()
@@ -71280,9 +71280,9 @@ $.ach=!1
 $.agp=!1
 $.agn=!1
 $.ayh=H.a(["assets/images/church.jpg","assets/images/carousel_1.jpg","assets/images/carousel_2.jpg","assets/images/carousel_3.jpg"],t.s)
-$.amC=H.a(["images/school/plan1.jpeg","images/school/plan2.jpeg","images/school/plan4.jpeg"],t.s)
-$.amA=H.a(["images/toilet/t6.jpeg","images/toilet/t10.jpeg"],t.s)
-$.amB=H.a(["images/toilet/t9.jpeg","images/toilet/t1.jpeg","images/toilet/t2.jpeg","images/toilet/t3.jpeg","images/toilet/t4.jpeg","images/toilet/t5.jpeg","images/toilet/t7.jpeg","images/toilet/t8.jpeg"],t.s)
+$.amC=H.a(["assets/images/school/plan1.jpeg","assets/images/school/plan2.jpeg","assets/images/school/plan4.jpeg"],t.s)
+$.amA=H.a(["assets/images/toilet/t6.jpeg","assets/images/toilet/t10.jpeg"],t.s)
+$.amB=H.a(["assets/images/toilet/t9.jpeg","assets/images/toilet/t1.jpeg","assets/images/toilet/t2.jpeg","assets/images/toilet/t3.jpeg","assets/images/toilet/t4.jpeg","assets/images/toilet/t5.jpeg","assets/images/toilet/t7.jpeg","assets/images/toilet/t8.jpeg"],t.s)
 $.atT=P.B(t.S,H.a6("atS"))
 $.ajI=null
 $.ajG=null
